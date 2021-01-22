@@ -1,0 +1,1 @@
+export const convertKtoC = (temp: number) =>  Math.floor(temp - 273.15)
